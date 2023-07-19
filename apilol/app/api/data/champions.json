@@ -1,0 +1,313 @@
+[
+  {  
+    "id": 1,
+    "name": "Riven",
+    "title": "Outrora mestra das espadas nos esquadrões de Noxus, agora Riven é uma expatriada em uma terra que um dia já tentou conquistar",
+    "type": "lutador",
+    "img": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt3925b81c7462e26e/5db05ffadc674266df3d5d42/RiotX_ChampionList_riven.jpg",
+    "skinks" : {
+      "skin1" : {
+        "name" : "Pacto Quebrado",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_55.jpg"
+      },
+      "skin2" : {
+        "name" : "Emissario luz",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_16.jpg"
+      } ,
+      "skin3" : {
+        "name" : "Riven Sentinela",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_34.jpg"
+      } ,
+      "skin4" : {
+        "name" : "Espada Valorosa",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_20.jpg"
+      } ,
+      "skin5" : {
+        "name" : "Espada Valorosa Prestigio",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_22.jpg"
+      } , 
+      "skin6" : {
+        "name" : "Campeonato",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_7.jpg"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "Yasuo",
+    "title": "Yasuo, um ioniano extremamente determinado, é também um ágil espadachim que usa o próprio ar como arma para enfrentar seus inimigos",
+    "type": "lutador",
+    "img": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt3a319fc884dc6880/5db0601c242f426df132f985/RiotX_ChampionList_yasuo.jpg",
+    "skinks" : {
+      "skin1" : {
+        "name" : "Tinta Sombria",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_56.jpg"
+      },
+      "skin2" : {
+        "name" : "Dragão Dos Sonhos",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_55.jpg"
+      } ,
+      "skin3" : {
+        "name" : "Lobo do Mar",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_45.jpg"
+      } ,
+      "skin4" : {
+        "name" : "Florecer Espiritual",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_36.jpg"
+      } ,
+      "skin5" : {
+        "name" : "Emissario da Escuridão",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_9.jpg"
+      } , 
+      "skin6" : {
+        "name" : "Odisseia",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_10.jpg"
+      }
+    }  
+  },
+  {
+    "id": 3,
+    "name": "Thresh",
+    "title": "Sádico e astuto, Thresh é um espírito ambicioso e incansável das Ilhas das Sombras",
+    "type": "suporte",
+    "img": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt46555de3bfa94d44/5db0600b2140ec675d68f4b5/RiotX_ChampionList_thresh.jpg",
+    "skinks" : {
+      "skin1" : {
+        "name" : "Imperador Lunar",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_39.jpg"
+      },
+      "skin2" : {
+        "name" : "Dragão de Aço",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_28.jpg"
+      } ,
+      "skin3" : {
+        "name" : "Liberto",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_27.jpg"
+      } ,
+      "skin4" : {
+        "name" : "Florecer Espiritual",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_17.jpg"
+      } ,
+      "skin5" : {
+        "name" : "Fpx",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_15.jpg"
+      } , 
+      "skin6" : {
+        "name" : "Velho Oeste",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_6.jpg"
+      }
+    } 
+  
+    } ,
+  {
+    "id": 4,
+    "name": "Tiwisted Fate",
+    "title": "Outrora mestra das espadas nos esquadrões de Noxus, agora Riven é uma expatriada em uma terra que um dia já tentou conquistar",
+    "type": "mago",
+    "img": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltaebcdb8b21d440a7/5db0600ce9effa6ba5295fb3/RiotX_ChampionList_twistedfate.jpg?quality=90&width=250",
+    "skinks" : {
+      "skin1" : {
+        "name" : "Pesadelo na Cidade do Crime",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TwistedFate_25.jpg"
+      },
+      "skin2" : {
+        "name" : "Odisseia",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TwistedFate_13.jpg"
+      } ,
+      "skin3" : {
+        "name" : "Pulsefire",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TwistedFate_11.jpg"
+      } ,
+      "skin4" : {
+        "name" : "Lua Sangrenta",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_10.jpg"
+      } ,
+      "skin5" : {
+        "name" : "Punguista",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_9.jpg"
+      } , 
+      "skin6" : {
+        "name" : "Velho Oeste",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TwistedFate_5.jpg"
+      }
+    } 
+    } ,
+  {
+    "id": 5,
+    "name": "Vayne",
+    "title": "Shauna Vayne é uma caçadora de monstros demaciana mortal e implacável que dedicou sua vida a encontrar e destruir o monstro que assassinou sua família",
+    "type": "atirador",
+    "img": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt9eaabc908956c8b0/5db060146af83b6d7032c90a/RiotX_ChampionList_vayne.jpg",
+    "skinks" : {
+      "skin1" : {
+        "name" : "Emissario da luz" ,
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_44.jpg"
+      },
+      "skin2" : {
+        "name" : "Morcego de Batalha",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_32.jpg"
+      } ,
+      "skin3" : {
+        "name" : "Sentinela",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_25.jpg"
+      } ,
+      "skin4" : {
+        "name" : "Fpx",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_15.jpg"
+      } ,
+      "skin5" : {
+        "name" : "Florecer Espiritual",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_14.jpg"
+      } , 
+      "skin6" : {
+        "name" : "Ladra de Almas",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_10.jpg"
+      }
+    } 
+    } ,
+  {
+    "id": 6,
+    "name": "Mordekaiser",
+    "title": "Morto e renascido duas vezes, Mordekaiser é um cruel comandante de uma época perdida. Ele usa a arte da necromancia para aprisionar almas e torná-las submissas pela eternidade.",
+    "type": "lutador",
+    "img": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt7683195e1c4f6706/621ed30fba043c4a2c4a9f7a/RiotX_ChampionList_mordekaiser_v2.jpg",
+    "skinks" : {
+      "skin1" : {
+        "name" : "Cavaleiro Zumbi" ,
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_42.jpg"
+      },
+      "skin2" : {
+        "name" : "Velho Oeste",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_32.jpg"
+      } ,
+      "skin3" : {
+        "name" : "PentaKill",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_23.jpg"
+      } ,
+      "skin4" : {
+        "name" : "Projeto",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_13.jpg"
+      } ,
+      "skin5" : {
+        "name" : "Estrela Negra",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_6.jpg"
+      } , 
+      "skin6" : {
+        "name" : "Infernal",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_2.jpg"
+      }
+    } 
+    } ,
+  {
+    "id": 7,
+    "name": "Rell",
+    "title": "Produto de um experimento brutal nas mãos da Rosa Negra, Rell é uma arma humana rebelde que está determinada a destruir Noxus",
+    "type": "suporte",
+    "img": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt0091d81986fe44c7/5fd43df38593bc52457eecc4/RiotX_ChampionList_Rell_v2.jpg",
+    "skinks" : {
+      "skin1" : {
+        "name" : "Guardia Estelar" ,
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rell_10.jpg"
+      },
+      "skin2" : {
+        "name" : "Rainha de Batalha",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_32.jpg"
+      } 
+    } 
+    } ,
+  {
+    "id": 8,
+    "name": "PANTHEON",
+    "title": "Antes um relutante portador do Aspecto da Guerra, Atreus conseguiu sobreviver quando o poder celestial dentro dele foi morto, recusando-se a sucumbir a um golpe que arrancou estrelas do céu",
+    "type": "lutador",
+    "img": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt3f84c538bd36ef02/5db05ff17d28b76cfe43980d/RiotX_ChampionList_pantheon.jpg",
+    "skinks" : {
+      "skin1" : {
+        "name" : "Conquistador Das Cinzas" ,
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_36.jpg"
+      },
+      "skin2" : {
+        "name" : "Destruido",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_25.jpg"
+      } ,
+      "skin3" : {
+        "name" : "Pulsefire",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_16.jpg"
+      } ,
+      "skin4" : {
+        "name" : "Caçador de Dragões",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_6.jpg"
+      } ,
+      "skin5" : {
+        "name" : "Gladiador",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_5.jpg"
+      } , 
+      "skin6" : {
+        "name" : "Blindado",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_4.jpg"
+      }
+    } 
+    } ,
+  {
+    "id": 9,
+    "name": "Neeko",
+    "title": "Nativa de uma tribo vastaya há muito esquecida, Neeko consegue se misturar em qualquer multidão",
+    "type": "mago",
+    "img": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blta62eaac6ad26a4f5/5db05fe7adc8656c7d24e7ea/RiotX_ChampionList_neeko.jpg",
+    "skinks" : {
+      "skin1" : {
+        "name" : "Feiticera" ,
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_22.jpg"
+      },
+      "skin2" : {
+        "name" : "Pergaminho Shan In",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_12.jpg"
+      } ,
+      "skin3" : {
+        "name" : "Guardia Estelar",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_10.jpg"
+      } ,
+      "skin4" : {
+        "name" : "Inverno Magico",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_1.jpg"
+      } ,
+      "skin5" : {
+        "name" : "Guardia Estelar Prestigio",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_11.jpg"
+      } 
+    } 
+  },
+  {
+    "id": 10,
+    "name": "Irelia",
+    "title": "A ocupação noxiana de Ionia produziu muitos heróis, mas nenhum era mais improvável do que a jovem Irelia de Navori",
+    "type": "lutador",
+    "img": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf5f2b8de93870aef/5db05fcea6470d6ab91ce59a/RiotX_ChampionList_irelia.jpg",
+    "skinks" : {
+      "skin1" : {
+        "name" : "Criadora Mitica" ,
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_37.jpg"
+      },
+      "skin2" : {
+        "name" : "Projeto Prestigio",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_36.jpg"
+      } ,
+      "skin3" : {
+        "name" : "Sentinela",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_24.jpg"
+      } ,
+      "skin4" : {
+        "name" : "Velho Oeste",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_18.jpg"
+      } ,
+      "skin5" : {
+        "name" : "Projeto",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_36.jpg"
+      } ,
+      "skin6" : {
+        "name" : "Espada Divina",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_6.jpg"
+      } 
+    } 
+  }
+]
