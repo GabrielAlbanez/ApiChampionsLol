@@ -11,7 +11,7 @@ async function getChampions(championsName) {
       headers: {
         "Content-Type": "application/json",
       },
-      cache: "default",
+      cache: "no-store",
     }
   );
   const data = await request.json();

@@ -13,14 +13,14 @@ export default async function Home() {
   })
   const Champions : [] = await request.json()
 
-
+  
   
 
 
   return (
-    <main className='container mx-auto '>
+    <main className='container mx-auto  '>
       <h1 className='text-center text-4xl  m-10'>
-        E-Comerce Lol
+        Champions
       </h1>
       <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 auto-rows-max gap-6 m-10'>
         {Champions.map(({id,name,title,type,img}) => (

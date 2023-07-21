@@ -14,9 +14,15 @@ export default function RootLayout({
 }: {
   children: React.ReactNode
 }) {
+ 
+  const backgroundImageStyle = {
+    backgroundImage: `url(${"https://c4.wallpaperflare.com/wallpaper/1/323/656/league-of-legends-noxus-hd-wallpaper-preview.jpg"})`
+   
+  };
+
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={`${inter.className} ` } >{children}</body>
     </html>
   )
 }
