@@ -9,7 +9,7 @@ export default async function Home() {
     headers: {
       "Content-Type": "application/json",
     },
-    cache : 'default'
+    cache : 'no-store'
   })
   const Champions : [] = await request.json()
 
@@ -25,15 +25,15 @@ export default async function Home() {
       <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 auto-rows-max gap-6 m-10'>
         {Champions.map(({id,name,title,type,img}) => (
            <Link href={`/champions/${name}`} key={id}>
-          <div className='shadow-2xl aspect-square rounded-md'>       
+          <div className='shadow-2xl aspect-square rounded-md bg-center'>       
           {/* <h1>{img}</h1>  */}
       
               
              
                <Image
                alt={title}
-               width={200}
-               height={200}
+               width={400}
+               height={400}
                src={img}
                className='w-full object-cover aspect-square rounded-md'
                />

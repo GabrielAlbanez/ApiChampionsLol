@@ -4,7 +4,7 @@
     "name": "Riven",
     "title": "Outrora mestra das espadas nos esquadrões de Noxus, agora Riven é uma expatriada em uma terra que um dia já tentou conquistar",
     "type": "lutador",
-    "img": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt3925b81c7462e26e/5db05ffadc674266df3d5d42/RiotX_ChampionList_riven.jpg",
+    "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_0.jpg",
     "skinks" : {
       "skin1" : {
         "name" : "Pacto Quebrado",
@@ -37,7 +37,7 @@
     "name": "Yasuo",
     "title": "Yasuo, um ioniano extremamente determinado, é também um ágil espadachim que usa o próprio ar como arma para enfrentar seus inimigos",
     "type": "lutador",
-    "img": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt3a319fc884dc6880/5db0601c242f426df132f985/RiotX_ChampionList_yasuo.jpg",
+    "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_0.jpg",
     "skinks" : {
       "skin1" : {
         "name" : "Tinta Sombria",
@@ -45,23 +45,23 @@
       },
       "skin2" : {
         "name" : "Dragão Dos Sonhos",
-        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_55.jpg"
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_55.jpg"
       } ,
       "skin3" : {
         "name" : "Lobo do Mar",
-        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_45.jpg"
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_45.jpg"
       } ,
       "skin4" : {
         "name" : "Florecer Espiritual",
-        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_36.jpg"
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_36.jpg"
       } ,
       "skin5" : {
         "name" : "Emissario da Escuridão",
-        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_9.jpg"
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_9.jpg"
       } , 
       "skin6" : {
         "name" : "Odisseia",
-        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Riven_10.jpg"
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Yasuo_10.jpg"
       }
     }  
   },
@@ -70,7 +70,7 @@
     "name": "Thresh",
     "title": "Sádico e astuto, Thresh é um espírito ambicioso e incansável das Ilhas das Sombras",
     "type": "suporte",
-    "img": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt46555de3bfa94d44/5db0600b2140ec675d68f4b5/RiotX_ChampionList_thresh.jpg",
+    "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Thresh_0.jpg",
     "skinks" : {
       "skin1" : {
         "name" : "Imperador Lunar",
@@ -101,7 +101,7 @@
     } ,
   {
     "id": 4,
-    "name": "Tiwisted%20Fate",
+    "name": "Tiwisted-Fate",
     "title": "Outrora mestra das espadas nos esquadrões de Noxus, agora Riven é uma expatriada em uma terra que um dia já tentou conquistar",
     "type": "mago",
     "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/TwistedFate_0.jpg",
@@ -137,7 +137,7 @@
     "name": "Vayne",
     "title": "Shauna Vayne é uma caçadora de monstros demaciana mortal e implacável que dedicou sua vida a encontrar e destruir o monstro que assassinou sua família",
     "type": "atirador",
-    "img": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt9eaabc908956c8b0/5db060146af83b6d7032c90a/RiotX_ChampionList_vayne.jpg",
+    "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Vayne_0.jpg",
     "skinks" : {
       "skin1" : {
         "name" : "Emissario da luz" ,
@@ -170,7 +170,7 @@
     "name": "Mordekaiser",
     "title": "Morto e renascido duas vezes, Mordekaiser é um cruel comandante de uma época perdida. Ele usa a arte da necromancia para aprisionar almas e torná-las submissas pela eternidade.",
     "type": "lutador",
-    "img": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt7683195e1c4f6706/621ed30fba043c4a2c4a9f7a/RiotX_ChampionList_mordekaiser_v2.jpg",
+    "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_0.jpg",
     "skinks" : {
       "skin1" : {
         "name" : "Cavaleiro Zumbi" ,
@@ -203,7 +203,7 @@
     "name": "Rell",
     "title": "Produto de um experimento brutal nas mãos da Rosa Negra, Rell é uma arma humana rebelde que está determinada a destruir Noxus",
     "type": "suporte",
-    "img": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt0091d81986fe44c7/5fd43df38593bc52457eecc4/RiotX_ChampionList_Rell_v2.jpg",
+    "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rell_0.jpg",
     "skinks" : {
       "skin1" : {
         "name" : "Guardia Estelar" ,
@@ -211,7 +211,7 @@
       },
       "skin2" : {
         "name" : "Rainha de Batalha",
-        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Mordekaiser_32.jpg"
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Rell_1.jpg"
       } 
     } 
     } ,
@@ -220,7 +220,7 @@
     "name": "PANTHEON",
     "title": "Antes um relutante portador do Aspecto da Guerra, Atreus conseguiu sobreviver quando o poder celestial dentro dele foi morto, recusando-se a sucumbir a um golpe que arrancou estrelas do céu",
     "type": "lutador",
-    "img": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt3f84c538bd36ef02/5db05ff17d28b76cfe43980d/RiotX_ChampionList_pantheon.jpg",
+    "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Pantheon_0.jpg",
     "skinks" : {
       "skin1" : {
         "name" : "Conquistador Das Cinzas" ,
@@ -253,7 +253,7 @@
     "name": "Neeko",
     "title": "Nativa de uma tribo vastaya há muito esquecida, Neeko consegue se misturar em qualquer multidão",
     "type": "mago",
-    "img": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blta62eaac6ad26a4f5/5db05fe7adc8656c7d24e7ea/RiotX_ChampionList_neeko.jpg",
+    "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_0.jpg",
     "skinks" : {
       "skin1" : {
         "name" : "Feiticera" ,
@@ -274,6 +274,10 @@
       "skin5" : {
         "name" : "Guardia Estelar Prestigio",
         "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_11.jpg"
+      } ,
+      "skin6" : {
+        "name" : "Guardia Estelar Prestigio (2022)",
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_11.jpg"
       } 
     } 
   },
@@ -282,7 +286,7 @@
     "name": "Irelia",
     "title": "A ocupação noxiana de Ionia produziu muitos heróis, mas nenhum era mais improvável do que a jovem Irelia de Navori",
     "type": "lutador",
-    "img": "https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/bltf5f2b8de93870aef/5db05fcea6470d6ab91ce59a/RiotX_ChampionList_irelia.jpg",
+    "img": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_0.jpg",
     "skinks" : {
       "skin1" : {
         "name" : "Criadora Mitica" ,
@@ -294,11 +298,11 @@
       } ,
       "skin3" : {
         "name" : "Sentinela",
-        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_24.jpg"
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_26.jpg"
       } ,
       "skin4" : {
         "name" : "Velho Oeste",
-        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Neeko_18.jpg"
+        "imgSkin" : "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Irelia_18.jpg"
       } ,
       "skin5" : {
         "name" : "Projeto",
